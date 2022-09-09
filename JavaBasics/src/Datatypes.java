@@ -9,6 +9,9 @@ public class Datatypes {
 		short s=400;
 		int i=100;// 99%ncncn
 		long l=1000;
+		System.out.println("byte "+b);
+		System.out.println("short "+s);
+		System.out.println("long "+l);
 		
 		i =200;
 		
@@ -16,6 +19,7 @@ public class Datatypes {
 		System.out.println(i);
 		
 		float f=100.45f;
+		System.out.println("float "+f);
 		double d=300; //99%
 		System.out.println(d);
 		char c = 'g';
